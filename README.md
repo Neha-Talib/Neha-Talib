@@ -10,4 +10,4 @@ I am a **Computational Materials Researcher**. My research focuses on atomic- an
 
 I am interested in understanding materials behaviour at the atomic and molecular scale, including **defects, radiation effects, fracture & fatigue mechanisms, and mechanical responses**. I am driven to advance materials discovery through computational modeling, bridging fundamental research with practical applications.
 
-> *“The best way to predict the future is to create it.”*
+> *“The best way to predict the future is to mold it.”*
