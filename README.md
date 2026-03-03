@@ -9,6 +9,6 @@ I am a **Computational Materials Researcher**. My research focuses on atomic- an
 
 ## 📌 Research Statement
 
-I am interested in understanding materials behaviour at the atomic and molecular scale, including **defects, radiation effects, fracture and fatigue mechanisms, and mechanical responses**. I am driven to advance materials discovery through computational modeling, bridging fundamental research with practical applications.
+I am interested in understanding materials behaviour at the atomic and molecular scale, including **defects, radiation effects, fracture & fatigue mechanisms, and mechanical responses**. I am driven to advance materials discovery through computational modeling, bridging fundamental research with practical applications.
 
 > *“The best way to predict the future is to create it.”*
