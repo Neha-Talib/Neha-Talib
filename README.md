@@ -1,6 +1,8 @@
 # Hi, I'm Neha 👋
 
-[![Email](https://img.shields.io/badge/Email-123neha32@gmail.com-red)](mailto:123neha32@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Talib-blue)](https://www.linkedin.com/in/neha-talib-5161b3319/)
+[![Email](https://img.shields.io/badge/Email-123neha32@gmail.com-red)](mailto:123neha32@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Talib-blue)](https://www.linkedin.com/in/neha-talib-5161b3319/)  
+[![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20Notebook-orange)](https://colab.research.google.com/drive/1w5WUh7TILIefQ6HSLvNrQ5donQSDcg9F?usp=drive_open)
 
 ## 👩‍🔬 About Me
 
