@@ -1,8 +1,6 @@
 # Hi, I'm Neha 👋
 
-[![Email](https://img.shields.io/badge/Email-123neha32@gmail.com-red)](mailto:123neha32@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Talib-blue)](https://www.linkedin.com/in/neha-talib-5161b3319/)   
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-green)](https://neha-talib.github.io/)
+[![Email](https://img.shields.io/badge/Email-123neha32@gmail.com-red)](mailto:123neha32@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Neha%20Talib-blue)](https://www.linkedin.com/in/neha-talib-5161b3319/)   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-green)](https://neha-talib.github.io/)
 ## 👩‍🔬 About Me
 I am a **Computational Materials Researcher**. My research focuses on atomic- and molecular-scale simulations to investigate the **structural, thermal, mechanical, and dynamical behaviours** of materials, including metals, alloys, glasses, and multicomponent oxide systems.
 ## 📌 Research Statement
